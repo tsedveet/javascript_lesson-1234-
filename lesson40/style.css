@@ -1,0 +1,14 @@
+body {
+  background-color: #5e454b;
+}
+.greenDiv {
+  color: #cee5d0;
+  background-color: #d8b384;
+  font-size: 28px;
+  padding: 20px;
+  border: 10px solid #ecdbba;
+  text-decoration: none;
+  margin: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
